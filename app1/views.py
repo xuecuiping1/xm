@@ -21,3 +21,7 @@ def zyl(request):
 
 def lww(request):
     return render(request,"lww.html")
+
+
+def qyx(request):
+    return render(request,"qyx.html")
