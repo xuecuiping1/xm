@@ -17,3 +17,7 @@ def xcp(request):
 
 def zyl(request):
     return render(request,"zyl.html")
+
+
+def lww(request):
+    return render(request,"lww.html")
